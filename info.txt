@@ -1,2 +1,3 @@
 Name - Sano
 email - shaik.sanober@ismiletechnologies.com
+role - Cloud Engineer Intern
